@@ -8,12 +8,12 @@ h1 {
 
 h4 {
 	font-weight: bold;
-	margin-bottom: 40px;
+	margin-bottom: 20px;
 }
 
 .btn-primary {
 	background: #ff0000;
-	margin-top: 30px;
+	margin-top: 10px;
 	margin-bottom: 40px;
 	border-width: 2px;
 	border-color: #ff0000;
@@ -26,7 +26,7 @@ h4 {
 }
 .btn-primary:hover {
 	background: #FFF;
-	margin-top: 30px;
+	margin-top: 10px;
 	margin-bottom: 40px;
 	color: #ff0000;
 	border-width: 2px;
@@ -99,4 +99,11 @@ fieldset[disabled] .btn-primary.focus {
 	border: solid;
 	border-width: 2px;
 	padding: 20px;
+}
+
+#bottom-line {
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	font-weight: bold;
+	padding: 20px 0px 0px 0px;
 }
