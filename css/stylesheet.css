@@ -96,8 +96,6 @@ fieldset[disabled] .btn-primary.focus {
 */
 
 #description {
-	border: solid;
-	border-width: 2px;
 	padding: 20px;
 }
 
