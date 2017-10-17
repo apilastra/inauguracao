@@ -3,10 +3,13 @@ body {
 }
 
 h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
 	color: red;
 }
 
 h4 {
+	font-family: 'Montserrat', sans-serif;
 	font-weight: bold;
 	margin-bottom: 20px;
 }
